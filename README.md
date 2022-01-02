@@ -12,6 +12,5 @@ bash into container `docker-compose run app sh`
 
 ## todo
 
-- script in app container, runnable from package
 - readme docs of the above script from within or without container
 - script importing other packages and running their methods
